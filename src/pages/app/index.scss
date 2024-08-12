@@ -1,0 +1,116 @@
+.pagina-app {
+
+  .header{
+    display: flex;
+    align-items: center;
+    background-color: #6278F7;
+    
+  }
+  
+  .info{
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+    gap: 40px;
+    width: 1440px;
+    height: 90px;
+
+  }
+
+  .titulo{
+    font-family: Roboto;
+    color: #F5F6FA;
+    font-weight: 700;
+    text-align: left;
+    font-size: 20px;
+
+  }
+
+  .icone{
+    width: 51.52px;
+    height: 60px;
+
+  }
+
+  .text{
+    display: flex;
+    font-family: Roboto;
+    color: #F5F6FA;
+    font-weight: 400;
+    
+    font-size: 20px;
+    line-height: 23.44px;
+    gap: 12px;
+    margin-right: 50px;
+  }
+
+  // CARTOES
+
+  .container{
+    font-family: Roboto;
+    color: #383131;
+    font-weight: 700;
+    
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: 50px;
+
+  }
+
+
+  .cartao{
+    background-color: #ffffff;
+    border-radius: 50px;
+
+    width: 215px;
+    height: 158px;
+    top: 223px;
+    left: 80px;
+    gap: 0px;
+    border-radius: 12px 0px 0px 0px;
+    opacity: 0px;
+
+
+  }
+
+
+  .bolota{
+    width: 60px;
+    height: 60px;
+    top: 241px;
+    left: 157px;
+    gap: 0px;
+    border-radius: 12px 0px 0px 0px;
+    opacity: 0px;
+
+    background: #FFCE37;
+  }
+
+  .text{
+    
+  }
+
+
+  .text h1{
+    font-family: Roboto;
+    color: #383131;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 16.41px;
+    text-align: center;
+
+
+  }
+
+  .text p{
+    font-family: Roboto;
+    color: #383131;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16.41px;
+    text-align: center;
+
+  }
+
+
+}
